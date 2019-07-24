@@ -1,2 +1,2 @@
 # cm1
-Computer Simulation based on Simpletron
+Симуляція комп'ютерної архітектури з власним інтерпретатором машинного коду.
